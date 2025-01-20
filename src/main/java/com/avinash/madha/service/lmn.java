@@ -9,5 +9,8 @@ public class lmn {
         System.out.println("I went to Arizona State University, Phoenix, Arizona,USA");
         System.out.println("I went to Arizona State University, Phoenix, Arizona,USA");
         System.out.println("I went to Arizona State University, Phoenix, Arizona,USA");
+        System.out.println("I went to Arizona State University, Tuscon, Arizona,USA");
+        System.out.println("I went to Arizona State University, Tuscon, Arizona,USA");
+        System.out.println("I went to Arizona State University, Tuscon, Arizona,USA");
     }
 }
