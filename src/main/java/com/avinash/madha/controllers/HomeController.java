@@ -15,4 +15,9 @@ public class HomeController {
     public String getInformation() {
         return dao.fetchInformation();
     }
+
+    @GetMapping("/collegeName")
+    public String getColegeName() {
+        return "Ruia College";
+    }
 }
