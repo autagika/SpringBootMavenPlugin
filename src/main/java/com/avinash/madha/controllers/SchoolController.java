@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class SchoolController {
     @GetMapping("/name")
     public String getSchoolName() {
-        return "Gurukul";
+        return "Gurukul High School";
     }
 }
